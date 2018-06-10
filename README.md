@@ -1,4 +1,10 @@
-# Small noncoding RNA expression from NCI-60 cell lines
+# Playground with omics data from NCI-60 cell lines
+
+
+# `data`
+
+
+## Small noncoding RNA expression from NCI-60 cell lines
 
 - Overview of NCI-60 cell lines, https://dtp.cancer.gov/discovery_development/nci-60/cell_list.htm
 
